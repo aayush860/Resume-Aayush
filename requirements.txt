@@ -3,3 +3,7 @@ gunicorn
 whitenoise 
 dj-database-url 
 psycopg2
+os
+sys
+gunicorn
+django-heroku
